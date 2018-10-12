@@ -1,0 +1,17 @@
+{
+  "name": "simfuny",
+  "version": "1.0.0",
+  "description": "A simple and fun and humble and experimental functional utility library for my personal use. Ah! And it is also lightweight!",
+  "main": "index.js",
+  "repository": "gparonitti/simfuny",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["javascript", "functional", "npm", "package", "gparonitti", "simple"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "dependencies": {}
+}
