@@ -1,6 +1,6 @@
 {
   "name": "simfuny",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple and fun and humble and experimental functional utility library for my personal use. Ah! And it is also lightweight!",
   "main": "index.js",
   "repository": "gparonitti/simfuny",
@@ -9,7 +9,7 @@
   },
   "keywords": ["javascript", "functional", "npm", "package", "gparonitti", "simple"],
   "author": "",
-  "license": "MIT",
+  "license": "WTFPL",
   "devDependencies": {
     "jest": "^23.6.0"
   },
