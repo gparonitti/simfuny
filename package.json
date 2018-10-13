@@ -1,6 +1,6 @@
 {
   "name": "simfuny",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and fun and humble and experimental functional utility library for my personal use. Ah! And it is also lightweight!",
   "main": "index.js",
   "repository": "gparonitti/simfuny",
