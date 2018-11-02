@@ -1,6 +1,6 @@
 {
   "name": "simfuny",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple and fun and humble and experimental functional utility library for my personal use. Ah! And it is also lightweight!",
   "main": "src/index.js",
   "repository": "gparonitti/simfuny",
@@ -35,11 +35,13 @@
     "babel-eslint": "*",
     "babel-jest": "^23.6.0",
     "babel-polyfill": "^6.26.0",
-    "eslint": "^5.7.0",
+    "eslint": "^5.8.0",
     "eslint-config-standard": "^12.0.0",
     "jest": "*",
     "regenerator-runtime": "^0.12.1",
     "standard": "^12.0.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "merge": "^1.2.1"
+  }
 }
